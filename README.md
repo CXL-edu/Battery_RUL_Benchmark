@@ -32,7 +32,7 @@ Datasets available for battery RUL prediction tasks
 
 
 
-<center class="half"><img src=".\file_to_readme\NASA\dynamic0.gif" alt="dynamic" width="357" height="204" /><img src=".\file_to_readme\NASA\dynamic22.gif" width="357" height="204" /></center>
+<div align=center><img src=".\file_to_readme\NASA\dynamic0.gif" alt="dynamic" width="378" height="216" /><img src=".\file_to_readme\NASA\dynamic22.gif" width="378" height="216" /></div>
 
 <img src=".\file_to_readme\NASA\dynamic32.gif" width="420" height="240" /><img src=".\file_to_readme\NASA\dynamic62.gif" width="420" height="240" />
 
