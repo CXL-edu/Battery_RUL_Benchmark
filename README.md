@@ -30,7 +30,7 @@ Datasets available for battery RUL prediction tasks
 
 ## Iterative prediction of RUL using linear regression in NASA dataset
 
-<img src=".\file_to_readme\NASA\dynamic0.gif" alt="dynamic" style="zoom:22%;" /><img src=".\file_to_readme\NASA\dynamic22.gif" alt="dynamic" style="zoom:22%;" />
+<img src=".\file_to_readme\NASA\dynamic0.gif" alt="dynamic" style="zoom:12%;" /><img src=".\file_to_readme\NASA\dynamic22.gif" alt="dynamic" style="zoom:22%;" />
 
 <img src=".\file_to_readme\NASA\dynamic32.gif" alt="dynamic" style="zoom:22%;" /><img src=".\file_to_readme\NASA\dynamic62.gif" alt="dynamic" style="zoom:22%;" />
 
