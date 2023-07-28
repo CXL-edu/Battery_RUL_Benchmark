@@ -44,7 +44,7 @@ Datasets available for battery RUL prediction tasks
 
 <div align=center><img src=".\file_to_readme\NASA\dynamic_GPR_0.gif" alt="dynamic" width="399" height="228" /><img src=".\file_to_readme\NASA\dynamic_GPR_52.gif" width="399" height="228" /></div>
 
-<center><img src=".\file_to_readme\NASA\GPR.png" width="630" height="300" /></center>
+<div align=center><img src=".\file_to_readme\NASA\GPR.png" width="630" height="300" /></div>
 
 
 
