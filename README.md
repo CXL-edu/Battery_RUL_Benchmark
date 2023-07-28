@@ -34,13 +34,15 @@ Datasets available for battery RUL prediction tasks
 
 <div align=center><img src=".\file_to_readme\NASA\dynamic0.gif" alt="dynamic" width="399" height="228" /><img src=".\file_to_readme\NASA\dynamic22.gif" width="399" height="228" /></div>
 
-<img src=".\file_to_readme\NASA\dynamic32.gif" width="420" height="240" /><img src=".\file_to_readme\NASA\dynamic62.gif" width="420" height="240" />
+<div align=center><img src=".\file_to_readme\NASA\dynamic32.gif" alt="dynamic" width="399" height="228" /><img src=".\file_to_readme\NASA\dynamic62.gif" width="399" height="228" /></div>
 
 
 
 ## Iterative prediction of RUL using Gaussian process regression method in NASA dataset
 
-<img src=".\file_to_readme\NASA\dynamic_GPR_0.gif" width="420" height="240" /><img src=".\file_to_readme\NASA\dynamic_GPR_52.gif" width="420" height="240" />
+
+
+<div align=center><img src=".\file_to_readme\NASA\dynamic_GPR_0.gif" alt="dynamic" width="399" height="228" /><img src=".\file_to_readme\NASA\dynamic_GPR_52.gif" width="399" height="228" /></div>
 
 <img src=".\file_to_readme\NASA\GPR.png" width="630" height="300" />
 
