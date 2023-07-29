@@ -4,6 +4,21 @@ The gradually increased amount of battery aging data has enabled rapid developme
 
 
 
+If you do not have a Python environment locally, you can click on the `Colab` badge below and run the experimental example using the code we share.
+
+<p align="center">
+    <a href="https://colab.research.google.com/drive/1dqpDPpVbww95NOQ2JLZ2cKixyY_kPi_7?usp=sharing">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg">
+    </a>
+    <a href="https://github.com/CXL-edu/Battery_RUL_Benchmark/blob/main/LICENSE">
+        <img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg" alt="License">
+    </a>
+</p>
+
+
+
+
+
 
 # Battery Datasets
 
