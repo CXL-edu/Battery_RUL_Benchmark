@@ -4,7 +4,7 @@ The gradually increased amount of battery aging data has enabled rapid developme
 
 
 
-If you do not have a Python environment locally, you can click on the `Colab` badge below and run the experimental example using the code we share.
+If you do not have a `Python` environment locally, you can click on the `Colab` badge below and run the experimental example using the code we shared.
 
 <p align="center">
     <a href="https://colab.research.google.com/drive/1dqpDPpVbww95NOQ2JLZ2cKixyY_kPi_7?usp=sharing">
