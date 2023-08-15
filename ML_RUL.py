@@ -18,7 +18,12 @@ sklearn.utils.check_random_state(random_seed)
 def build_model(model_name: str):
     model_dict = {
         'LR': 'from sklearn.linear_model import LinearRegression as Model',
+        'KNN': 'from sklearn.neighbors import KNeighborsRegressor as Model',
+        'SVR': 'from sklearn.svm import SVR as Model',
         'GPR': 'from sklearn.gaussian_process import GaussianProcessRegressor as Model',
+        'MLP': 'from sklearn.neural_network import MLPRegressor as Model',
+        'RF': 'from sklearn.ensemble import RandomForestRegressor as Model',
+        'LightGBM': 'from lightgbm import LGBMRegressor as Model',
     }
     exec(model_dict[model_name])
     _model = eval("Model()")
@@ -173,9 +178,14 @@ class visual_iterative_pred():
 
 
 fig, ax = plt.subplots(figsize=(7, 4), dpi=300)
-scope = visual_iterative_pred(model, test_x[0], 0, 1.4, real_capacity, ax)
+start_cycle = 0
+scope = visual_iterative_pred(model, test_x[start_cycle], start_cycle, 1.4, real_capacity, ax)
 
 # pass a generator in "emitter" to produce data for the update func
 ani = animation.FuncAnimation(fig, scope.my_update, range(len(scope.pred_y)), interval=250, blit=True)
-ani.save('dynamic0.gif', writer='pillow')
+ani.save(f'dynamic_{model_name}_{start_cycle}.gif', writer='pillow')
 # ani.save('dynamic.gif', writer='imagemagick', fps=60)
+
+
+if __name__ == '__main__':
+    pass
