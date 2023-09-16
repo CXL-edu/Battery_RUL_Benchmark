@@ -2,6 +2,6 @@
 
 *test*
 .idea/
-./ipynb_checkpoints
+./ipynb_checkpoints/
 /data/NASA/*.csv
 hdf5
