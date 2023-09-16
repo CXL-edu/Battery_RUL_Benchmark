@@ -1,6 +1,7 @@
 # 匹配任何名字带有 test 的文件和目录
 
 *test*
-/.idea/
+.idea/
+./ipynb_checkpoints
 /data/NASA/*.csv
 hdf5
