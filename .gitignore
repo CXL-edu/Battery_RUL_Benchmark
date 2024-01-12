@@ -1,7 +1,17 @@
 # 匹配任何名字带有 test 的文件和目录
 
 *test*
+*cache*
+
+*.csv
+*.xlsx
+*.mat
+*.pt
+*.vsdx
+
 .idea/
-./ipynb_checkpoints/
+./ipynb_checkpoints
 /data/NASA/*.csv
+/data/NASA/*.mat
 hdf5
+
