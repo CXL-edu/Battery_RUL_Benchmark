@@ -9,6 +9,7 @@
 *.pt
 *.vsdx
 
+other
 .idea/
 ./ipynb_checkpoints
 /data/NASA/*.csv
